@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Anagramy</string>
+    <string name="play"> ▷</string>
+    <string name="repeat">↻</string>
+    <string name="hint">Wpisz słowo, np. kot</string>
+    <string name="eye">👁</string>
+</resources>
